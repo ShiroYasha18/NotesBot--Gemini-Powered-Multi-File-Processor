@@ -1,4 +1,4 @@
-# Gemini-Powered Multi-File Processor
+# NotesBot- Gemini-Powered Multi-File Processor
 
 This project is a Python-based Streamlit application that processes and analyzes unstructured data from PDFs and images using Google Gemini’s Large Language Model (LLM) API. It extracts text from PDFs and images and answers user queries based on the extracted data.
 
